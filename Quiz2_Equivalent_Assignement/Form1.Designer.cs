@@ -1,5 +1,6 @@
 ﻿
-namespace WindowsFormsApp2
+namespace Liabrary_Management
+    
 {
     partial class Form2
     {
